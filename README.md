@@ -11,3 +11,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-basic-time-series-models-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-sarima-models-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-facebook-prophet-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-k-nearest-neighbors-lab-online-ds-ft-081219.git
