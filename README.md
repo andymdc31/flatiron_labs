@@ -13,3 +13,6 @@
 - Repo added: https://github.com/learn-co-students/dsc-facebook-prophet-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-k-nearest-neighbors-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-knn-with-scikit-learn-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-ID3-trees-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-decision-trees-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-tuning-decision-trees-lab-online-ds-ft-081219.git
