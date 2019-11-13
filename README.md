@@ -33,3 +33,4 @@
 - Repo added: https://github.com/learn-co-students/dsc-pca-and-digital-image-processing-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/ds-k-means-clustering-lab-online-ds-ft-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-market-segmentation-clustering-lab-online-ds-ft-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-pipelines-lab-online-ds-ft-081219.git
